@@ -5,9 +5,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dsthakur402/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/dsthakur402/LeetCode/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/dsthakur402/LeetCode/tree/master/2727-number-of-senior-citizens) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dsthakur402/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
