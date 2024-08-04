@@ -19,7 +19,7 @@ class Solution {
             if (i >= left) ans = (ans + p[0]) % mod;
             if (p[1] < n - 1) {
                 p[0] += nums[++p[1]];
-                pq.offer(p);
+                pq.add(p);
             }
         }
         return ans;
