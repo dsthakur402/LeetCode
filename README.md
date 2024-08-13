@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/dsthakur402/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0870-magic-squares-in-grid](https://github.com/dsthakur402/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/dsthakur402/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/dsthakur402/LeetCode/tree/master/0999-regions-cut-by-slashes) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dsthakur402/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/dsthakur402/LeetCode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
