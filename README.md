@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/dsthakur402/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dsthakur402/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dsthakur402/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2077-largest-number-after-mutating-substring](https://github.com/dsthakur402/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dsthakur402/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dsthakur402/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/dsthakur402/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/dsthakur402/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0878-shifting-letters](https://github.com/dsthakur402/LeetCode/tree/master/0878-shifting-letters) |
 | [1954-replace-all-digits-with-characters](https://github.com/dsthakur402/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
+| [2077-largest-number-after-mutating-substring](https://github.com/dsthakur402/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dsthakur402/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/dsthakur402/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dsthakur402/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/dsthakur402/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/dsthakur402/LeetCode/tree/master/0890-lemonade-change) |
+| [2077-largest-number-after-mutating-substring](https://github.com/dsthakur402/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dsthakur402/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
