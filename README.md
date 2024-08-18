@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0273-integer-to-english-words](https://github.com/dsthakur402/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0878-shifting-letters](https://github.com/dsthakur402/LeetCode/tree/master/0878-shifting-letters) |
+| [1954-replace-all-digits-with-characters](https://github.com/dsthakur402/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dsthakur402/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/dsthakur402/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/dsthakur402/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
