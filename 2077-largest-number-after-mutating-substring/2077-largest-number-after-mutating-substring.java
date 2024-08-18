@@ -11,7 +11,6 @@ class Solution {
                 res[i] = (char) (changedVal + '0');
                 hasChanged = true;
             } else if (changedVal < originalVal && hasChanged) {
-                // Stop changing as soon as a digit would not be replaced with a higher value
                 break;
             }
         }
