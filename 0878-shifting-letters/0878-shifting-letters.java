@@ -1,6 +1,5 @@
 class Solution {
-    public String shiftingLetters(String s, int[] shifts) {
-        // Accumulate shifts from the end to the beginning
+    public String shiftingLetters(String s, int[] shifts) { 
         for (int i = shifts.length - 2; i >= 0; i--) {
             shifts[i] =(shifts[i] + shifts[i + 1]) % 26;
         }
