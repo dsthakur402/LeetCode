@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0273-integer-to-english-words](https://github.com/dsthakur402/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0564-find-the-closest-palindrome](https://github.com/dsthakur402/LeetCode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/dsthakur402/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0664-strange-printer](https://github.com/dsthakur402/LeetCode/tree/master/0664-strange-printer) |
 | [0878-shifting-letters](https://github.com/dsthakur402/LeetCode/tree/master/0878-shifting-letters) |
 | [1954-replace-all-digits-with-characters](https://github.com/dsthakur402/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dsthakur402/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/dsthakur402/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0664-strange-printer](https://github.com/dsthakur402/LeetCode/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/dsthakur402/LeetCode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dsthakur402/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Prefix Sum
