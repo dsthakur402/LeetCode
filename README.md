@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0264-ugly-number-ii](https://github.com/dsthakur402/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/dsthakur402/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dsthakur402/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/dsthakur402/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dsthakur402/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dsthakur402/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/dsthakur402/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/dsthakur402/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dsthakur402/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/dsthakur402/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dsthakur402/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dsthakur402/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/dsthakur402/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 ## Strongly Connected Component
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/dsthakur402/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/dsthakur402/LeetCode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
