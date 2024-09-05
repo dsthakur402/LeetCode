@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dsthakur402/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dsthakur402/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dsthakur402/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2155-find-missing-observations](https://github.com/dsthakur402/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dsthakur402/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/dsthakur402/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/dsthakur402/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0650-2-keys-keyboard](https://github.com/dsthakur402/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/dsthakur402/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/dsthakur402/LeetCode/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/dsthakur402/LeetCode/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/dsthakur402/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0921-spiral-matrix-iii](https://github.com/dsthakur402/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dsthakur402/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/dsthakur402/LeetCode/tree/master/2155-find-missing-observations) |
 ## Depth-First Search
 |  |
 | ------- |
