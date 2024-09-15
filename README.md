@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/dsthakur402/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/dsthakur402/LeetCode/tree/master/0664-strange-printer) |
 | [0878-shifting-letters](https://github.com/dsthakur402/LeetCode/tree/master/0878-shifting-letters) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dsthakur402/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dsthakur402/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1954-replace-all-digits-with-characters](https://github.com/dsthakur402/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/dsthakur402/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/dsthakur402/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dsthakur402/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/dsthakur402/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dsthakur402/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dsthakur402/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dsthakur402/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/dsthakur402/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0878-shifting-letters](https://github.com/dsthakur402/LeetCode/tree/master/0878-shifting-letters) |
 | [1240-stone-game-ii](https://github.com/dsthakur402/LeetCode/tree/master/1240-stone-game-ii) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dsthakur402/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Game Theory
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/dsthakur402/LeetCode/tree/master/0476-number-complement) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dsthakur402/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dsthakur402/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/dsthakur402/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Stack
