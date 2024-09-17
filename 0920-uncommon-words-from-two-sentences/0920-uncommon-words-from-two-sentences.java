@@ -1,32 +1,36 @@
 class Solution {
     public String[] uncommonFromSentences(String s1, String s2) {
-        Map<String, Integer> wordFreq1 = new HashMap<>();
-        Map<String, Integer> wordFreq2 = new HashMap<>();
-        String sen1Words[] = s1.split(" ");
-        String sen2Words[] = s2.split(" ");
-        for(var word : sen1Words){
-            wordFreq1.put(word, wordFreq1.getOrDefault(word, 0)+1);
+        List<String> output = new ArrayList<>(); 
+        HashMap<String, Integer> map = new HashMap<>();
+        String s1Str[] = s1.split(" ");
+        // for(int i = 0; i < s1.length(); ++i) {
+        //         map.put(s1Str[i], map.getOrDefault(s1Str[i], 0 ) + 1);
+        // }
+        for(String word: s1Str) {
+            map.put(word, map.getOrDefault(word, 0) + 1);
         }
-        for(var word : sen2Words){
-            wordFreq2.put(word, wordFreq2.getOrDefault(word, 0)+1);
+        String s2Str[] = s2.split(" ");
+         // Count occurrences of words from the second sentence
+        for (String word : s2Str) {
+            map.put(word, map.getOrDefault(word, 0) + 1);
         }
-        List<String> uncommons = new ArrayList<>();
-        
-        for(var entry : wordFreq1.entrySet()){
-            String word = entry.getKey();
-            int wordFreq = entry.getValue();
-            if(wordFreq == 1 && !wordFreq2.containsKey(word)){
-                 uncommons.add(word);
+
+        // Add words that appear only once to the output list
+        for (String word : map.keySet()) {
+            if (map.get(word) == 1) {
+                output.add(word);
             }
         }
-       
-        for(var entry : wordFreq2.entrySet()){
-            String word = entry.getKey();
-            int wordFreq = entry.getValue();
-            if(wordFreq == 1 && !wordFreq1.containsKey(word)){
-                 uncommons.add(word);
-            }
-        }
-        return uncommons.stream().toArray(String[]::new);
+
+        // covert list to a string array
+        return output.toArray(new String[0]);
+        //     for(int i = 0; i < s2.length(); ++i) {
+        //         if(map.containsKey(s2Str[i]) && map.get(s2Str[i]) == 1) {
+        //             output.add(s2Str[i]);
+        //         }
+        //     }
+        //     String[] stringArr = output.toArray(new String[0]);
+        //     return stringArr;
+        // }
     }
 }
