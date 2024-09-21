@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/dsthakur402/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0198-house-robber](https://github.com/dsthakur402/LeetCode/tree/master/0198-house-robber) |
 | [0539-minimum-time-difference](https://github.com/dsthakur402/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/dsthakur402/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dsthakur402/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/dsthakur402/LeetCode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dsthakur402/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/dsthakur402/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/dsthakur402/LeetCode/tree/master/0650-2-keys-keyboard) |
