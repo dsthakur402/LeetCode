@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/dsthakur402/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/dsthakur402/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dsthakur402/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/dsthakur402/LeetCode/tree/master/0729-my-calendar-i) |
 | [0870-magic-squares-in-grid](https://github.com/dsthakur402/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0878-shifting-letters](https://github.com/dsthakur402/LeetCode/tree/master/0878-shifting-letters) |
 | [0890-lemonade-change](https://github.com/dsthakur402/LeetCode/tree/master/0890-lemonade-change) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dsthakur402/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/dsthakur402/LeetCode/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/dsthakur402/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/dsthakur402/LeetCode/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/dsthakur402/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -266,4 +269,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/dsthakur402/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/dsthakur402/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/dsthakur402/LeetCode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/dsthakur402/LeetCode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
