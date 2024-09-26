@@ -9,8 +9,7 @@ class MyCalendar {
     public boolean book(int start, int end) {
         for (int[] a : arr) {
             int s = a[0];
-            int e = a[1];
-            
+            int e = a[1];           
 
             if (start < e && end > s) {
                 return false;
