@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dsthakur402/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/dsthakur402/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0198-house-robber](https://github.com/dsthakur402/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dsthakur402/LeetCode/tree/master/0213-house-robber-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dsthakur402/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/dsthakur402/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/dsthakur402/LeetCode/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/dsthakur402/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/dsthakur402/LeetCode/tree/master/0729-my-calendar-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/dsthakur402/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
