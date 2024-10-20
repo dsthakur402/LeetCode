@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/dsthakur402/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/dsthakur402/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/dsthakur402/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/dsthakur402/LeetCode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1240-stone-game-ii](https://github.com/dsthakur402/LeetCode/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/dsthakur402/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/dsthakur402/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -213,12 +214,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0337-house-robber-iii](https://github.com/dsthakur402/LeetCode/tree/master/0337-house-robber-iii) |
 | [0650-2-keys-keyboard](https://github.com/dsthakur402/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/dsthakur402/LeetCode/tree/master/0664-strange-printer) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/dsthakur402/LeetCode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1240-stone-game-ii](https://github.com/dsthakur402/LeetCode/tree/master/1240-stone-game-ii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dsthakur402/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/dsthakur402/LeetCode/tree/master/0878-shifting-letters) |
+| [1042-minimum-cost-to-merge-stones](https://github.com/dsthakur402/LeetCode/tree/master/1042-minimum-cost-to-merge-stones) |
 | [1240-stone-game-ii](https://github.com/dsthakur402/LeetCode/tree/master/1240-stone-game-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/dsthakur402/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Game Theory
