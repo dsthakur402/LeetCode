@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dsthakur402/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0040-combination-sum-ii](https://github.com/dsthakur402/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0139-word-break](https://github.com/dsthakur402/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dsthakur402/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dsthakur402/LeetCode/tree/master/0213-house-robber-ii) |
 | [0539-minimum-time-difference](https://github.com/dsthakur402/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dsthakur402/LeetCode/tree/master/0020-valid-parentheses) |
+| [0139-word-break](https://github.com/dsthakur402/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dsthakur402/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/dsthakur402/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/dsthakur402/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/dsthakur402/LeetCode/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/dsthakur402/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/dsthakur402/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/dsthakur402/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/dsthakur402/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/dsthakur402/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dsthakur402/LeetCode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dsthakur402/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -272,10 +276,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/dsthakur402/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/dsthakur402/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/dsthakur402/LeetCode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/dsthakur402/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/dsthakur402/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Segment Tree
