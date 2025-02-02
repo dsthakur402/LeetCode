@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/dsthakur402/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/dsthakur402/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/dsthakur402/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/dsthakur402/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/dsthakur402/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2077-largest-number-after-mutating-substring](https://github.com/dsthakur402/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2155-find-missing-observations](https://github.com/dsthakur402/LeetCode/tree/master/2155-find-missing-observations) |
